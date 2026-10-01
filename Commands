@@ -1,0 +1,14 @@
+Check Docker version:
+  docker --version
+Check Docker Status:
+  docker info
+Pull an Image:
+  docker pull nginx
+View Images:
+  docker images
+Run a Container:
+  docker run -d -p 8080:80 nginx
+List Running Containers:
+  docker ps
+Stop a Container:
+ docker stop <container-id>
