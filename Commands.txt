@@ -1,5 +1,5 @@
 Check Docker version:
-  docker --version
+ docker --version
 Check Docker Status:
   docker info
 Pull an Image:
